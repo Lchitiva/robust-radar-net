@@ -136,7 +136,7 @@ MyDrive/
 
 ### Google Colab
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/robust-radar-net/blob/main/RobustRadarNet.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lchitiva/robust-radar-net/blob/main/RobustRadarNet.ipynb)
 
 1. Mount Google Drive when prompted
 2. Adjust `ZIP_PATH` in Part 0 if your Drive path differs
